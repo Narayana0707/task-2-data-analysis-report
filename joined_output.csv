@@ -1,0 +1,413 @@
+InvoiceId,CustomerId,CustomerName,Country,InvoiceDate,Total
+1,2,Leonie Köhler,Germany,2009-01-01 00:00:00,1.98
+2,4,Bjørn Hansen,Norway,2009-01-02 00:00:00,3.96
+3,8,Daan Peeters,Belgium,2009-01-03 00:00:00,5.94
+4,14,Mark Philips,Canada,2009-01-06 00:00:00,8.91
+5,23,John Gordon,USA,2009-01-11 00:00:00,13.86
+6,37,Fynn Zimmermann,Germany,2009-01-19 00:00:00,0.99
+7,38,Niklas Schröder,Germany,2009-02-01 00:00:00,1.98
+8,40,Dominique Lefebvre,France,2009-02-01 00:00:00,1.98
+9,42,Wyatt Girard,France,2009-02-02 00:00:00,3.96
+10,46,Hugh O'Reilly,Ireland,2009-02-03 00:00:00,5.94
+11,52,Emma Jones,United Kingdom,2009-02-06 00:00:00,8.91
+12,2,Leonie Köhler,Germany,2009-02-11 00:00:00,13.86
+13,16,Frank Harris,USA,2009-02-19 00:00:00,0.99
+14,17,Jack Smith,USA,2009-03-04 00:00:00,1.98
+15,19,Tim Goyer,USA,2009-03-04 00:00:00,1.98
+16,21,Kathy Chase,USA,2009-03-05 00:00:00,3.96
+17,25,Victor Stevens,USA,2009-03-06 00:00:00,5.94
+18,31,Martha Silk,Canada,2009-03-09 00:00:00,8.91
+19,40,Dominique Lefebvre,France,2009-03-14 00:00:00,13.86
+20,54,Steve Murray,United Kingdom,2009-03-22 00:00:00,0.99
+21,55,Mark Taylor,Australia,2009-04-04 00:00:00,1.98
+22,57,Luis Rojas,Chile,2009-04-04 00:00:00,1.98
+23,59,Puja Srivastava,India,2009-04-05 00:00:00,3.96
+24,4,Bjørn Hansen,Norway,2009-04-06 00:00:00,5.94
+25,10,Eduardo Martins,Brazil,2009-04-09 00:00:00,8.91
+26,19,Tim Goyer,USA,2009-04-14 00:00:00,13.86
+27,33,Ellie Sullivan,Canada,2009-04-22 00:00:00,0.99
+28,34,João Fernandes,Portugal,2009-05-05 00:00:00,1.98
+29,36,Hannah Schneider,Germany,2009-05-05 00:00:00,1.98
+30,38,Niklas Schröder,Germany,2009-05-06 00:00:00,3.96
+31,42,Wyatt Girard,France,2009-05-07 00:00:00,5.94
+32,48,Johannes Van der Berg,Netherlands,2009-05-10 00:00:00,8.91
+33,57,Luis Rojas,Chile,2009-05-15 00:00:00,13.86
+34,12,Roberto Almeida,Brazil,2009-05-23 00:00:00,0.99
+35,13,Fernanda Ramos,Brazil,2009-06-05 00:00:00,1.98
+36,15,Jennifer Peterson,Canada,2009-06-05 00:00:00,1.98
+37,17,Jack Smith,USA,2009-06-06 00:00:00,3.96
+38,21,Kathy Chase,USA,2009-06-07 00:00:00,5.94
+39,27,Patrick Gray,USA,2009-06-10 00:00:00,8.91
+40,36,Hannah Schneider,Germany,2009-06-15 00:00:00,13.86
+41,50,Enrique Muñoz,Spain,2009-06-23 00:00:00,0.99
+42,51,Joakim Johansson,Sweden,2009-07-06 00:00:00,1.98
+43,53,Phil Hughes,United Kingdom,2009-07-06 00:00:00,1.98
+44,55,Mark Taylor,Australia,2009-07-07 00:00:00,3.96
+45,59,Puja Srivastava,India,2009-07-08 00:00:00,5.94
+46,6,Helena Holý,Czech Republic,2009-07-11 00:00:00,8.91
+47,15,Jennifer Peterson,Canada,2009-07-16 00:00:00,13.86
+48,29,Robert Brown,Canada,2009-07-24 00:00:00,0.99
+49,30,Edward Francis,Canada,2009-08-06 00:00:00,1.98
+50,32,Aaron Mitchell,Canada,2009-08-06 00:00:00,1.98
+51,34,João Fernandes,Portugal,2009-08-07 00:00:00,3.96
+52,38,Niklas Schröder,Germany,2009-08-08 00:00:00,5.94
+53,44,Terhi Hämäläinen,Finland,2009-08-11 00:00:00,8.91
+54,53,Phil Hughes,United Kingdom,2009-08-16 00:00:00,13.86
+55,8,Daan Peeters,Belgium,2009-08-24 00:00:00,0.99
+56,9,Kara Nielsen,Denmark,2009-09-06 00:00:00,1.98
+57,11,Alexandre Rocha,Brazil,2009-09-06 00:00:00,1.98
+58,13,Fernanda Ramos,Brazil,2009-09-07 00:00:00,3.96
+59,17,Jack Smith,USA,2009-09-08 00:00:00,5.94
+60,23,John Gordon,USA,2009-09-11 00:00:00,8.91
+61,32,Aaron Mitchell,Canada,2009-09-16 00:00:00,13.86
+62,46,Hugh O'Reilly,Ireland,2009-09-24 00:00:00,0.99
+63,47,Lucas Mancini,Italy,2009-10-07 00:00:00,1.98
+64,49,Stanisław Wójcik,Poland,2009-10-07 00:00:00,1.98
+65,51,Joakim Johansson,Sweden,2009-10-08 00:00:00,3.96
+66,55,Mark Taylor,Australia,2009-10-09 00:00:00,5.94
+67,2,Leonie Köhler,Germany,2009-10-12 00:00:00,8.91
+68,11,Alexandre Rocha,Brazil,2009-10-17 00:00:00,13.86
+69,25,Victor Stevens,USA,2009-10-25 00:00:00,0.99
+70,26,Richard Cunningham,USA,2009-11-07 00:00:00,1.98
+71,28,Julia Barnett,USA,2009-11-07 00:00:00,1.98
+72,30,Edward Francis,Canada,2009-11-08 00:00:00,3.96
+73,34,João Fernandes,Portugal,2009-11-09 00:00:00,5.94
+74,40,Dominique Lefebvre,France,2009-11-12 00:00:00,8.91
+75,49,Stanisław Wójcik,Poland,2009-11-17 00:00:00,13.86
+76,4,Bjørn Hansen,Norway,2009-11-25 00:00:00,0.99
+77,5,František Wichterlová,Czech Republic,2009-12-08 00:00:00,1.98
+78,7,Astrid Gruber,Austria,2009-12-08 00:00:00,1.98
+79,9,Kara Nielsen,Denmark,2009-12-09 00:00:00,3.96
+80,13,Fernanda Ramos,Brazil,2009-12-10 00:00:00,5.94
+81,19,Tim Goyer,USA,2009-12-13 00:00:00,8.91
+82,28,Julia Barnett,USA,2009-12-18 00:00:00,13.86
+83,42,Wyatt Girard,France,2009-12-26 00:00:00,0.99
+84,43,Isabelle Mercier,France,2010-01-08 00:00:00,1.98
+85,45,Ladislav Kovács,Hungary,2010-01-08 00:00:00,1.98
+86,47,Lucas Mancini,Italy,2010-01-09 00:00:00,3.96
+87,51,Joakim Johansson,Sweden,2010-01-10 00:00:00,6.94
+88,57,Luis Rojas,Chile,2010-01-13 00:00:00,17.91
+89,7,Astrid Gruber,Austria,2010-01-18 00:00:00,18.86
+90,21,Kathy Chase,USA,2010-01-26 00:00:00,0.99
+91,22,Heather Leacock,USA,2010-02-08 00:00:00,1.98
+92,24,Frank Ralston,USA,2010-02-08 00:00:00,1.98
+93,26,Richard Cunningham,USA,2010-02-09 00:00:00,3.96
+94,30,Edward Francis,Canada,2010-02-10 00:00:00,5.94
+95,36,Hannah Schneider,Germany,2010-02-13 00:00:00,8.91
+96,45,Ladislav Kovács,Hungary,2010-02-18 00:00:00,21.86
+97,59,Puja Srivastava,India,2010-02-26 00:00:00,1.99
+98,1,Luís Gonçalves,Brazil,2010-03-11 00:00:00,3.98
+99,3,François Tremblay,Canada,2010-03-11 00:00:00,3.98
+100,5,František Wichterlová,Czech Republic,2010-03-12 00:00:00,3.96
+101,9,Kara Nielsen,Denmark,2010-03-13 00:00:00,5.94
+102,15,Jennifer Peterson,Canada,2010-03-16 00:00:00,9.91
+103,24,Frank Ralston,USA,2010-03-21 00:00:00,15.86
+104,38,Niklas Schröder,Germany,2010-03-29 00:00:00,0.99
+105,39,Camille Bernard,France,2010-04-11 00:00:00,1.98
+106,41,Marc Dubois,France,2010-04-11 00:00:00,1.98
+107,43,Isabelle Mercier,France,2010-04-12 00:00:00,3.96
+108,47,Lucas Mancini,Italy,2010-04-13 00:00:00,5.94
+109,53,Phil Hughes,United Kingdom,2010-04-16 00:00:00,8.91
+110,3,François Tremblay,Canada,2010-04-21 00:00:00,13.86
+111,17,Jack Smith,USA,2010-04-29 00:00:00,0.99
+112,18,Michelle Brooks,USA,2010-05-12 00:00:00,1.98
+113,20,Dan Miller,USA,2010-05-12 00:00:00,1.98
+114,22,Heather Leacock,USA,2010-05-13 00:00:00,3.96
+115,26,Richard Cunningham,USA,2010-05-14 00:00:00,5.94
+116,32,Aaron Mitchell,Canada,2010-05-17 00:00:00,8.91
+117,41,Marc Dubois,France,2010-05-22 00:00:00,13.86
+118,55,Mark Taylor,Australia,2010-05-30 00:00:00,0.99
+119,56,Diego Gutiérrez,Argentina,2010-06-12 00:00:00,1.98
+120,58,Manoj Pareek,India,2010-06-12 00:00:00,1.98
+121,1,Luís Gonçalves,Brazil,2010-06-13 00:00:00,3.96
+122,5,František Wichterlová,Czech Republic,2010-06-14 00:00:00,5.94
+123,11,Alexandre Rocha,Brazil,2010-06-17 00:00:00,8.91
+124,20,Dan Miller,USA,2010-06-22 00:00:00,13.86
+125,34,João Fernandes,Portugal,2010-06-30 00:00:00,0.99
+126,35,Madalena Sampaio,Portugal,2010-07-13 00:00:00,1.98
+127,37,Fynn Zimmermann,Germany,2010-07-13 00:00:00,1.98
+128,39,Camille Bernard,France,2010-07-14 00:00:00,3.96
+129,43,Isabelle Mercier,France,2010-07-15 00:00:00,5.94
+130,49,Stanisław Wójcik,Poland,2010-07-18 00:00:00,8.91
+131,58,Manoj Pareek,India,2010-07-23 00:00:00,13.86
+132,13,Fernanda Ramos,Brazil,2010-07-31 00:00:00,0.99
+133,14,Mark Philips,Canada,2010-08-13 00:00:00,1.98
+134,16,Frank Harris,USA,2010-08-13 00:00:00,1.98
+135,18,Michelle Brooks,USA,2010-08-14 00:00:00,3.96
+136,22,Heather Leacock,USA,2010-08-15 00:00:00,5.94
+137,28,Julia Barnett,USA,2010-08-18 00:00:00,8.91
+138,37,Fynn Zimmermann,Germany,2010-08-23 00:00:00,13.86
+139,51,Joakim Johansson,Sweden,2010-08-31 00:00:00,0.99
+140,52,Emma Jones,United Kingdom,2010-09-13 00:00:00,1.98
+141,54,Steve Murray,United Kingdom,2010-09-13 00:00:00,1.98
+142,56,Diego Gutiérrez,Argentina,2010-09-14 00:00:00,3.96
+143,1,Luís Gonçalves,Brazil,2010-09-15 00:00:00,5.94
+144,7,Astrid Gruber,Austria,2010-09-18 00:00:00,8.91
+145,16,Frank Harris,USA,2010-09-23 00:00:00,13.86
+146,30,Edward Francis,Canada,2010-10-01 00:00:00,0.99
+147,31,Martha Silk,Canada,2010-10-14 00:00:00,1.98
+148,33,Ellie Sullivan,Canada,2010-10-14 00:00:00,1.98
+149,35,Madalena Sampaio,Portugal,2010-10-15 00:00:00,3.96
+150,39,Camille Bernard,France,2010-10-16 00:00:00,5.94
+151,45,Ladislav Kovács,Hungary,2010-10-19 00:00:00,8.91
+152,54,Steve Murray,United Kingdom,2010-10-24 00:00:00,13.86
+153,9,Kara Nielsen,Denmark,2010-11-01 00:00:00,0.99
+154,10,Eduardo Martins,Brazil,2010-11-14 00:00:00,1.98
+155,12,Roberto Almeida,Brazil,2010-11-14 00:00:00,1.98
+156,14,Mark Philips,Canada,2010-11-15 00:00:00,3.96
+157,18,Michelle Brooks,USA,2010-11-16 00:00:00,5.94
+158,24,Frank Ralston,USA,2010-11-19 00:00:00,8.91
+159,33,Ellie Sullivan,Canada,2010-11-24 00:00:00,13.86
+160,47,Lucas Mancini,Italy,2010-12-02 00:00:00,0.99
+161,48,Johannes Van der Berg,Netherlands,2010-12-15 00:00:00,1.98
+162,50,Enrique Muñoz,Spain,2010-12-15 00:00:00,1.98
+163,52,Emma Jones,United Kingdom,2010-12-16 00:00:00,3.96
+164,56,Diego Gutiérrez,Argentina,2010-12-17 00:00:00,5.94
+165,3,François Tremblay,Canada,2010-12-20 00:00:00,8.91
+166,12,Roberto Almeida,Brazil,2010-12-25 00:00:00,13.86
+167,26,Richard Cunningham,USA,2011-01-02 00:00:00,0.99
+168,27,Patrick Gray,USA,2011-01-15 00:00:00,1.98
+169,29,Robert Brown,Canada,2011-01-15 00:00:00,1.98
+170,31,Martha Silk,Canada,2011-01-16 00:00:00,3.96
+171,35,Madalena Sampaio,Portugal,2011-01-17 00:00:00,5.94
+172,41,Marc Dubois,France,2011-01-20 00:00:00,8.91
+173,50,Enrique Muñoz,Spain,2011-01-25 00:00:00,13.86
+174,5,František Wichterlová,Czech Republic,2011-02-02 00:00:00,0.99
+175,6,Helena Holý,Czech Republic,2011-02-15 00:00:00,1.98
+176,8,Daan Peeters,Belgium,2011-02-15 00:00:00,1.98
+177,10,Eduardo Martins,Brazil,2011-02-16 00:00:00,3.96
+178,14,Mark Philips,Canada,2011-02-17 00:00:00,5.94
+179,20,Dan Miller,USA,2011-02-20 00:00:00,8.91
+180,29,Robert Brown,Canada,2011-02-25 00:00:00,13.86
+181,43,Isabelle Mercier,France,2011-03-05 00:00:00,0.99
+182,44,Terhi Hämäläinen,Finland,2011-03-18 00:00:00,1.98
+183,46,Hugh O'Reilly,Ireland,2011-03-18 00:00:00,1.98
+184,48,Johannes Van der Berg,Netherlands,2011-03-19 00:00:00,3.96
+185,52,Emma Jones,United Kingdom,2011-03-20 00:00:00,5.94
+186,58,Manoj Pareek,India,2011-03-23 00:00:00,8.91
+187,8,Daan Peeters,Belgium,2011-03-28 00:00:00,13.86
+188,22,Heather Leacock,USA,2011-04-05 00:00:00,0.99
+189,23,John Gordon,USA,2011-04-18 00:00:00,1.98
+190,25,Victor Stevens,USA,2011-04-18 00:00:00,1.98
+191,27,Patrick Gray,USA,2011-04-19 00:00:00,3.96
+192,31,Martha Silk,Canada,2011-04-20 00:00:00,5.94
+193,37,Fynn Zimmermann,Germany,2011-04-23 00:00:00,14.91
+194,46,Hugh O'Reilly,Ireland,2011-04-28 00:00:00,21.86
+195,1,Luís Gonçalves,Brazil,2011-05-06 00:00:00,0.99
+196,2,Leonie Köhler,Germany,2011-05-19 00:00:00,1.98
+197,4,Bjørn Hansen,Norway,2011-05-19 00:00:00,1.98
+198,6,Helena Holý,Czech Republic,2011-05-20 00:00:00,3.96
+199,10,Eduardo Martins,Brazil,2011-05-21 00:00:00,5.94
+200,16,Frank Harris,USA,2011-05-24 00:00:00,8.91
+201,25,Victor Stevens,USA,2011-05-29 00:00:00,18.86
+202,39,Camille Bernard,France,2011-06-06 00:00:00,1.99
+203,40,Dominique Lefebvre,France,2011-06-19 00:00:00,2.98
+204,42,Wyatt Girard,France,2011-06-19 00:00:00,3.98
+205,44,Terhi Hämäläinen,Finland,2011-06-20 00:00:00,7.96
+206,48,Johannes Van der Berg,Netherlands,2011-06-21 00:00:00,8.94
+207,54,Steve Murray,United Kingdom,2011-06-24 00:00:00,8.91
+208,4,Bjørn Hansen,Norway,2011-06-29 00:00:00,15.86
+209,18,Michelle Brooks,USA,2011-07-07 00:00:00,0.99
+210,19,Tim Goyer,USA,2011-07-20 00:00:00,1.98
+211,21,Kathy Chase,USA,2011-07-20 00:00:00,1.98
+212,23,John Gordon,USA,2011-07-21 00:00:00,3.96
+213,27,Patrick Gray,USA,2011-07-22 00:00:00,5.94
+214,33,Ellie Sullivan,Canada,2011-07-25 00:00:00,8.91
+215,42,Wyatt Girard,France,2011-07-30 00:00:00,13.86
+216,56,Diego Gutiérrez,Argentina,2011-08-07 00:00:00,0.99
+217,57,Luis Rojas,Chile,2011-08-20 00:00:00,1.98
+218,59,Puja Srivastava,India,2011-08-20 00:00:00,1.98
+219,2,Leonie Köhler,Germany,2011-08-21 00:00:00,3.96
+220,6,Helena Holý,Czech Republic,2011-08-22 00:00:00,5.94
+221,12,Roberto Almeida,Brazil,2011-08-25 00:00:00,8.91
+222,21,Kathy Chase,USA,2011-08-30 00:00:00,13.86
+223,35,Madalena Sampaio,Portugal,2011-09-07 00:00:00,0.99
+224,36,Hannah Schneider,Germany,2011-09-20 00:00:00,1.98
+225,38,Niklas Schröder,Germany,2011-09-20 00:00:00,1.98
+226,40,Dominique Lefebvre,France,2011-09-21 00:00:00,3.96
+227,44,Terhi Hämäläinen,Finland,2011-09-22 00:00:00,5.94
+228,50,Enrique Muñoz,Spain,2011-09-25 00:00:00,8.91
+229,59,Puja Srivastava,India,2011-09-30 00:00:00,13.86
+230,14,Mark Philips,Canada,2011-10-08 00:00:00,0.99
+231,15,Jennifer Peterson,Canada,2011-10-21 00:00:00,1.98
+232,17,Jack Smith,USA,2011-10-21 00:00:00,1.98
+233,19,Tim Goyer,USA,2011-10-22 00:00:00,3.96
+234,23,John Gordon,USA,2011-10-23 00:00:00,5.94
+235,29,Robert Brown,Canada,2011-10-26 00:00:00,8.91
+236,38,Niklas Schröder,Germany,2011-10-31 00:00:00,13.86
+237,52,Emma Jones,United Kingdom,2011-11-08 00:00:00,0.99
+238,53,Phil Hughes,United Kingdom,2011-11-21 00:00:00,1.98
+239,55,Mark Taylor,Australia,2011-11-21 00:00:00,1.98
+240,57,Luis Rojas,Chile,2011-11-22 00:00:00,3.96
+241,2,Leonie Köhler,Germany,2011-11-23 00:00:00,5.94
+242,8,Daan Peeters,Belgium,2011-11-26 00:00:00,8.91
+243,17,Jack Smith,USA,2011-12-01 00:00:00,13.86
+244,31,Martha Silk,Canada,2011-12-09 00:00:00,0.99
+245,32,Aaron Mitchell,Canada,2011-12-22 00:00:00,1.98
+246,34,João Fernandes,Portugal,2011-12-22 00:00:00,1.98
+247,36,Hannah Schneider,Germany,2011-12-23 00:00:00,3.96
+248,40,Dominique Lefebvre,France,2011-12-24 00:00:00,5.94
+249,46,Hugh O'Reilly,Ireland,2011-12-27 00:00:00,8.91
+250,55,Mark Taylor,Australia,2012-01-01 00:00:00,13.86
+251,10,Eduardo Martins,Brazil,2012-01-09 00:00:00,0.99
+252,11,Alexandre Rocha,Brazil,2012-01-22 00:00:00,1.98
+253,13,Fernanda Ramos,Brazil,2012-01-22 00:00:00,1.98
+254,15,Jennifer Peterson,Canada,2012-01-23 00:00:00,3.96
+255,19,Tim Goyer,USA,2012-01-24 00:00:00,5.94
+256,25,Victor Stevens,USA,2012-01-27 00:00:00,8.91
+257,34,João Fernandes,Portugal,2012-02-01 00:00:00,13.86
+258,48,Johannes Van der Berg,Netherlands,2012-02-09 00:00:00,0.99
+259,49,Stanisław Wójcik,Poland,2012-02-22 00:00:00,1.98
+260,51,Joakim Johansson,Sweden,2012-02-22 00:00:00,1.98
+261,53,Phil Hughes,United Kingdom,2012-02-23 00:00:00,3.96
+262,57,Luis Rojas,Chile,2012-02-24 00:00:00,5.94
+263,4,Bjørn Hansen,Norway,2012-02-27 00:00:00,8.91
+264,13,Fernanda Ramos,Brazil,2012-03-03 00:00:00,13.86
+265,27,Patrick Gray,USA,2012-03-11 00:00:00,0.99
+266,28,Julia Barnett,USA,2012-03-24 00:00:00,1.98
+267,30,Edward Francis,Canada,2012-03-24 00:00:00,1.98
+268,32,Aaron Mitchell,Canada,2012-03-25 00:00:00,3.96
+269,36,Hannah Schneider,Germany,2012-03-26 00:00:00,5.94
+270,42,Wyatt Girard,France,2012-03-29 00:00:00,8.91
+271,51,Joakim Johansson,Sweden,2012-04-03 00:00:00,13.86
+272,6,Helena Holý,Czech Republic,2012-04-11 00:00:00,0.99
+273,7,Astrid Gruber,Austria,2012-04-24 00:00:00,1.98
+274,9,Kara Nielsen,Denmark,2012-04-24 00:00:00,1.98
+275,11,Alexandre Rocha,Brazil,2012-04-25 00:00:00,3.96
+276,15,Jennifer Peterson,Canada,2012-04-26 00:00:00,5.94
+277,21,Kathy Chase,USA,2012-04-29 00:00:00,8.91
+278,30,Edward Francis,Canada,2012-05-04 00:00:00,13.86
+279,44,Terhi Hämäläinen,Finland,2012-05-12 00:00:00,0.99
+280,45,Ladislav Kovács,Hungary,2012-05-25 00:00:00,1.98
+281,47,Lucas Mancini,Italy,2012-05-25 00:00:00,1.98
+282,49,Stanisław Wójcik,Poland,2012-05-26 00:00:00,3.96
+283,53,Phil Hughes,United Kingdom,2012-05-27 00:00:00,5.94
+284,59,Puja Srivastava,India,2012-05-30 00:00:00,8.91
+285,9,Kara Nielsen,Denmark,2012-06-04 00:00:00,13.86
+286,23,John Gordon,USA,2012-06-12 00:00:00,0.99
+287,24,Frank Ralston,USA,2012-06-25 00:00:00,1.98
+288,26,Richard Cunningham,USA,2012-06-25 00:00:00,1.98
+289,28,Julia Barnett,USA,2012-06-26 00:00:00,3.96
+290,32,Aaron Mitchell,Canada,2012-06-27 00:00:00,5.94
+291,38,Niklas Schröder,Germany,2012-06-30 00:00:00,8.91
+292,47,Lucas Mancini,Italy,2012-07-05 00:00:00,13.86
+293,2,Leonie Köhler,Germany,2012-07-13 00:00:00,0.99
+294,3,François Tremblay,Canada,2012-07-26 00:00:00,1.98
+295,5,František Wichterlová,Czech Republic,2012-07-26 00:00:00,1.98
+296,7,Astrid Gruber,Austria,2012-07-27 00:00:00,3.96
+297,11,Alexandre Rocha,Brazil,2012-07-28 00:00:00,5.94
+298,17,Jack Smith,USA,2012-07-31 00:00:00,10.91
+299,26,Richard Cunningham,USA,2012-08-05 00:00:00,23.86
+300,40,Dominique Lefebvre,France,2012-08-13 00:00:00,0.99
+301,41,Marc Dubois,France,2012-08-26 00:00:00,1.98
+302,43,Isabelle Mercier,France,2012-08-26 00:00:00,1.98
+303,45,Ladislav Kovács,Hungary,2012-08-27 00:00:00,3.96
+304,49,Stanisław Wójcik,Poland,2012-08-28 00:00:00,5.94
+305,55,Mark Taylor,Australia,2012-08-31 00:00:00,8.91
+306,5,František Wichterlová,Czech Republic,2012-09-05 00:00:00,16.86
+307,19,Tim Goyer,USA,2012-09-13 00:00:00,1.99
+308,20,Dan Miller,USA,2012-09-26 00:00:00,3.98
+309,22,Heather Leacock,USA,2012-09-26 00:00:00,3.98
+310,24,Frank Ralston,USA,2012-09-27 00:00:00,7.96
+311,28,Julia Barnett,USA,2012-09-28 00:00:00,11.94
+312,34,João Fernandes,Portugal,2012-10-01 00:00:00,10.91
+313,43,Isabelle Mercier,France,2012-10-06 00:00:00,16.86
+314,57,Luis Rojas,Chile,2012-10-14 00:00:00,0.99
+315,58,Manoj Pareek,India,2012-10-27 00:00:00,1.98
+316,1,Luís Gonçalves,Brazil,2012-10-27 00:00:00,1.98
+317,3,François Tremblay,Canada,2012-10-28 00:00:00,3.96
+318,7,Astrid Gruber,Austria,2012-10-29 00:00:00,5.94
+319,13,Fernanda Ramos,Brazil,2012-11-01 00:00:00,8.91
+320,22,Heather Leacock,USA,2012-11-06 00:00:00,13.86
+321,36,Hannah Schneider,Germany,2012-11-14 00:00:00,0.99
+322,37,Fynn Zimmermann,Germany,2012-11-27 00:00:00,1.98
+323,39,Camille Bernard,France,2012-11-27 00:00:00,1.98
+324,41,Marc Dubois,France,2012-11-28 00:00:00,3.96
+325,45,Ladislav Kovács,Hungary,2012-11-29 00:00:00,5.94
+326,51,Joakim Johansson,Sweden,2012-12-02 00:00:00,8.91
+327,1,Luís Gonçalves,Brazil,2012-12-07 00:00:00,13.86
+328,15,Jennifer Peterson,Canada,2012-12-15 00:00:00,0.99
+329,16,Frank Harris,USA,2012-12-28 00:00:00,1.98
+330,18,Michelle Brooks,USA,2012-12-28 00:00:00,1.98
+331,20,Dan Miller,USA,2012-12-29 00:00:00,3.96
+332,24,Frank Ralston,USA,2012-12-30 00:00:00,5.94
+333,30,Edward Francis,Canada,2013-01-02 00:00:00,8.91
+334,39,Camille Bernard,France,2013-01-07 00:00:00,13.86
+335,53,Phil Hughes,United Kingdom,2013-01-15 00:00:00,0.99
+336,54,Steve Murray,United Kingdom,2013-01-28 00:00:00,1.98
+337,56,Diego Gutiérrez,Argentina,2013-01-28 00:00:00,1.98
+338,58,Manoj Pareek,India,2013-01-29 00:00:00,3.96
+339,3,François Tremblay,Canada,2013-01-30 00:00:00,5.94
+340,9,Kara Nielsen,Denmark,2013-02-02 00:00:00,8.91
+341,18,Michelle Brooks,USA,2013-02-07 00:00:00,13.86
+342,32,Aaron Mitchell,Canada,2013-02-15 00:00:00,0.99
+343,33,Ellie Sullivan,Canada,2013-02-28 00:00:00,1.98
+344,35,Madalena Sampaio,Portugal,2013-02-28 00:00:00,1.98
+345,37,Fynn Zimmermann,Germany,2013-03-01 00:00:00,3.96
+346,41,Marc Dubois,France,2013-03-02 00:00:00,5.94
+347,47,Lucas Mancini,Italy,2013-03-05 00:00:00,8.91
+348,56,Diego Gutiérrez,Argentina,2013-03-10 00:00:00,13.86
+349,11,Alexandre Rocha,Brazil,2013-03-18 00:00:00,0.99
+350,12,Roberto Almeida,Brazil,2013-03-31 00:00:00,1.98
+351,14,Mark Philips,Canada,2013-03-31 00:00:00,1.98
+352,16,Frank Harris,USA,2013-04-01 00:00:00,3.96
+353,20,Dan Miller,USA,2013-04-02 00:00:00,5.94
+354,26,Richard Cunningham,USA,2013-04-05 00:00:00,8.91
+355,35,Madalena Sampaio,Portugal,2013-04-10 00:00:00,13.86
+356,49,Stanisław Wójcik,Poland,2013-04-18 00:00:00,0.99
+357,50,Enrique Muñoz,Spain,2013-05-01 00:00:00,1.98
+358,52,Emma Jones,United Kingdom,2013-05-01 00:00:00,1.98
+359,54,Steve Murray,United Kingdom,2013-05-02 00:00:00,3.96
+360,58,Manoj Pareek,India,2013-05-03 00:00:00,5.94
+361,5,František Wichterlová,Czech Republic,2013-05-06 00:00:00,8.91
+362,14,Mark Philips,Canada,2013-05-11 00:00:00,13.86
+363,28,Julia Barnett,USA,2013-05-19 00:00:00,0.99
+364,29,Robert Brown,Canada,2013-06-01 00:00:00,1.98
+365,31,Martha Silk,Canada,2013-06-01 00:00:00,1.98
+366,33,Ellie Sullivan,Canada,2013-06-02 00:00:00,3.96
+367,37,Fynn Zimmermann,Germany,2013-06-03 00:00:00,5.94
+368,43,Isabelle Mercier,France,2013-06-06 00:00:00,8.91
+369,52,Emma Jones,United Kingdom,2013-06-11 00:00:00,13.86
+370,7,Astrid Gruber,Austria,2013-06-19 00:00:00,0.99
+371,8,Daan Peeters,Belgium,2013-07-02 00:00:00,1.98
+372,10,Eduardo Martins,Brazil,2013-07-02 00:00:00,1.98
+373,12,Roberto Almeida,Brazil,2013-07-03 00:00:00,3.96
+374,16,Frank Harris,USA,2013-07-04 00:00:00,5.94
+375,22,Heather Leacock,USA,2013-07-07 00:00:00,8.91
+376,31,Martha Silk,Canada,2013-07-12 00:00:00,13.86
+377,45,Ladislav Kovács,Hungary,2013-07-20 00:00:00,0.99
+378,46,Hugh O'Reilly,Ireland,2013-08-02 00:00:00,1.98
+379,48,Johannes Van der Berg,Netherlands,2013-08-02 00:00:00,1.98
+380,50,Enrique Muñoz,Spain,2013-08-03 00:00:00,3.96
+381,54,Steve Murray,United Kingdom,2013-08-04 00:00:00,5.94
+382,1,Luís Gonçalves,Brazil,2013-08-07 00:00:00,8.91
+383,10,Eduardo Martins,Brazil,2013-08-12 00:00:00,13.86
+384,24,Frank Ralston,USA,2013-08-20 00:00:00,0.99
+385,25,Victor Stevens,USA,2013-09-02 00:00:00,1.98
+386,27,Patrick Gray,USA,2013-09-02 00:00:00,1.98
+387,29,Robert Brown,Canada,2013-09-03 00:00:00,3.96
+388,33,Ellie Sullivan,Canada,2013-09-04 00:00:00,5.94
+389,39,Camille Bernard,France,2013-09-07 00:00:00,8.91
+390,48,Johannes Van der Berg,Netherlands,2013-09-12 00:00:00,13.86
+391,3,François Tremblay,Canada,2013-09-20 00:00:00,0.99
+392,4,Bjørn Hansen,Norway,2013-10-03 00:00:00,1.98
+393,6,Helena Holý,Czech Republic,2013-10-03 00:00:00,1.98
+394,8,Daan Peeters,Belgium,2013-10-04 00:00:00,3.96
+395,12,Roberto Almeida,Brazil,2013-10-05 00:00:00,5.94
+396,18,Michelle Brooks,USA,2013-10-08 00:00:00,8.91
+397,27,Patrick Gray,USA,2013-10-13 00:00:00,13.86
+398,41,Marc Dubois,France,2013-10-21 00:00:00,0.99
+399,42,Wyatt Girard,France,2013-11-03 00:00:00,1.98
+400,44,Terhi Hämäläinen,Finland,2013-11-03 00:00:00,1.98
+401,46,Hugh O'Reilly,Ireland,2013-11-04 00:00:00,3.96
+402,50,Enrique Muñoz,Spain,2013-11-05 00:00:00,5.94
+403,56,Diego Gutiérrez,Argentina,2013-11-08 00:00:00,8.91
+404,6,Helena Holý,Czech Republic,2013-11-13 00:00:00,25.86
+405,20,Dan Miller,USA,2013-11-21 00:00:00,0.99
+406,21,Kathy Chase,USA,2013-12-04 00:00:00,1.98
+407,23,John Gordon,USA,2013-12-04 00:00:00,1.98
+408,25,Victor Stevens,USA,2013-12-05 00:00:00,3.96
+409,29,Robert Brown,Canada,2013-12-06 00:00:00,5.94
+410,35,Madalena Sampaio,Portugal,2013-12-09 00:00:00,8.91
+411,44,Terhi Hämäläinen,Finland,2013-12-14 00:00:00,13.86
+412,58,Manoj Pareek,India,2013-12-22 00:00:00,1.99

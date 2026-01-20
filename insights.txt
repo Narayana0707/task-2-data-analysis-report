@@ -1,0 +1,9 @@
+
+1. A small number of top-selling tracks contribute a large share of total revenue,
+   showing a Pareto (80/20) sales pattern.
+
+2. Several customers have never placed an order. These users are ideal targets for
+   marketing and re-engagement campaigns.
+
+3. Revenue concentration around specific products helps businesses focus promotions
+   on high-performing SKUs.
